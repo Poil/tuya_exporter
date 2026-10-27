@@ -1,2 +1,10 @@
 /env
 /.vscode
+__pycache__/
+
+# tinytuya wizard output and per-instance configs (contain local/cloud keys)
+devices*.json*
+tuya-raw.json
+snapshot.json
+tinytuya.json
+tuya_exporter_*.conf*
