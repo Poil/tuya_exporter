@@ -1,2 +1,4 @@
-DEVICES="My Computer:192.168.1.18:azeaz213azeaze12323" "My Laptop:192.168.1.23:azezaE123azeaze123"
+DEVICES="-d deviceid -d device2id -d device3id"
+PORT=9191
+CONFIG="/home/tuya/tuya_exporter/devices.json"
 
